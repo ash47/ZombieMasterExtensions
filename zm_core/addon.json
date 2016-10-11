@@ -1,0 +1,12 @@
+{
+    "title"     :   "Squanch ZM Content",
+    "type"      :   "ServerContent",
+    "tags"      :   [],
+    "ignore"    :
+    [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*",
+        "*.git*"
+    ]
+}
